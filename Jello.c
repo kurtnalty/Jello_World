@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  printf("Visualize whirled peas!\n");
+  printf("Jello, Whirled!\n");
   return 0;
 }
 
